@@ -24,3 +24,15 @@ img {
   font-weight: bold;
   color: white;
 }
+.btn {
+  margin: 2px;
+}
+
+.service-style {
+  margin-top: 15px;
+  background-color: white;
+}
+
+.text-green {
+  color: #09e518;
+}
