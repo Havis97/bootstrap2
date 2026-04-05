@@ -4,3 +4,7 @@ body {
 .jumbotron {
   background-color: #3a76b2;
 }
+img {
+  height: 50px;
+  width: 200px;
+}
